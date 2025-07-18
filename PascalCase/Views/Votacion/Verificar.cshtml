@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Verificar Votante";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<form asp-action="Verificar" method="post">
+    <div class="form-group">
+        <label for="cedula">Número de Cédula:</label>
+        <input type="text" id="cedula" name="cedula" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Verificar</button>
+</form>
