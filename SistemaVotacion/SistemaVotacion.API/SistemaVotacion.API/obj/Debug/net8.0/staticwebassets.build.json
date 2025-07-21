@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8MF71slRGdf3jJdBImIE0MBgZ7SaFTZn5eUqUjaQ5Ik=",
+  "Source": "SistemaVotacion.API",
+  "BasePath": "_content/SistemaVotacion.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+﻿@model List<SistemaVotacion.MVC.Models.ResultadoVotacion>
+
+@{
+    ViewData["Title"] = "Resultados de la votación";
+}
+
+<h2>Resultados de la votación</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Partido</th>
+            <th>Cantidad de Votos</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resultado in Model)
+        {
+            <tr>
+                <td>@resultado.Partido</td>
+                <td>@resultado.CantidadVotos</td>
+            </tr>
+        }
+    </tbody>
+</table>

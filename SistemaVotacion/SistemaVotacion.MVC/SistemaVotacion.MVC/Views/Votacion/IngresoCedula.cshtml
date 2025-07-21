@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Inicio de Votación";
+}
+
+<h2>Ingrese su cédula para votar</h2>
+
+<form asp-action="IngresoCedula" method="post">
+    <div class="form-group">
+        <label for="cedula">Cédula:</label>
+        <input type="text" name="cedula" class="form-control" required />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Validar</button>
+</form>
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-danger mt-3">
+        @ViewBag.Mensaje
+    </div>
+} else
+{
+
+  
+}

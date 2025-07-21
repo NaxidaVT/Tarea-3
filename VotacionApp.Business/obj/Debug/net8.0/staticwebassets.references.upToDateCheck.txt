@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\staticwebassets.build.json

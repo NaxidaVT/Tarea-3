@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\services\\votoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\services\\votoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\services\\votanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\services\\votanteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\services\\resultadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\services\\resultadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\services\\partidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\services\\partidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\models\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\models\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\models\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\models\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\models\\resultadovotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\models\\resultadovotacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\models\\partidopolitico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\models\\partidopolitico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\controllers\\votacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\controllers\\votacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|c:\\users\\kevin\\source\\repos\\sistemavotacion\\sistemavotacion.mvc\\sistemavotacion.mvc\\views\\votacion\\ingresocedula.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29149F5B-8019-4645-B858-27EE22498BC4}|SistemaVotacion.MVC\\SistemaVotacion.MVC.csproj|solutionrelative:sistemavotacion.mvc\\views\\votacion\\ingresocedula.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VotoService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\VotoService.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Services\\VotoService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\VotoService.cs*",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Services\\VotoService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:23.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadoService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\ResultadoService.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Services\\ResultadoService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\ResultadoService.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Services\\ResultadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:16.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartidoService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\PartidoService.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Services\\PartidoService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\PartidoService.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Services\\PartidoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:16.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voto.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\Voto.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Models\\Voto.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\Voto.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Models\\Voto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Votante.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\Votante.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Models\\Votante.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\Votante.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Models\\Votante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultadoVotacion.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\ResultadoVotacion.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Models\\ResultadoVotacion.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\ResultadoVotacion.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Models\\ResultadoVotacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:06.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PartidoPolitico.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\PartidoPolitico.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Models\\PartidoPolitico.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\PartidoPolitico.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Models\\PartidoPolitico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:24:02.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:23:59.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VotacionController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Controllers\\VotacionController.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Controllers\\VotacionController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Controllers\\VotacionController.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Controllers\\VotacionController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:23:56.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Program.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:23:29.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-21T00:23:08.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T00:19:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VotanteService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\VotanteService.cs",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Services\\VotanteService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Services\\VotanteService.cs",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Services\\VotanteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:57:40.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IngresoCedula.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Views\\Votacion\\IngresoCedula.cshtml",
+              "RelativeDocumentMoniker": "SistemaVotacion.MVC\\Views\\Votacion\\IngresoCedula.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\SistemaVotacion\\SistemaVotacion.MVC\\SistemaVotacion.MVC\\Views\\Votacion\\IngresoCedula.cshtml",
+              "RelativeToolTip": "SistemaVotacion.MVC\\Views\\Votacion\\IngresoCedula.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T17:57:40.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

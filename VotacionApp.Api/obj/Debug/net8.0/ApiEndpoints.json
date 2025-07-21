@@ -1,0 +1,282 @@
+[
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.PartidosPoliticosController",
+    "Method": "GetPartidosPoliticos",
+    "RelativePath": "api/PartidosPoliticos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VotacionApp.Api.DTOs.PartidoPoliticoDto, VotacionApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.PartidosPoliticosController",
+    "Method": "PostPartidoPolitico",
+    "RelativePath": "api/PartidosPoliticos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPartidoPoliticoDto",
+        "Type": "VotacionApp.Api.DTOs.CreatePartidoPoliticoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VotacionApp.Api.DTOs.PartidoPoliticoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.PartidosPoliticosController",
+    "Method": "GetPartidoPolitico",
+    "RelativePath": "api/PartidosPoliticos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VotacionApp.Api.DTOs.PartidoPoliticoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.PartidosPoliticosController",
+    "Method": "PutPartidoPolitico",
+    "RelativePath": "api/PartidosPoliticos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatePartidoPoliticoDto",
+        "Type": "VotacionApp.Api.DTOs.UpdatePartidoPoliticoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.PartidosPoliticosController",
+    "Method": "DeletePartidoPolitico",
+    "RelativePath": "api/PartidosPoliticos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotacionController",
+    "Method": "GetResultados",
+    "RelativePath": "api/Votacion/resultados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotacionController",
+    "Method": "PostVoto",
+    "RelativePath": "api/Votacion/votar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "votarDto",
+        "Type": "VotacionApp.Api.DTOs.VotarDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotantesController",
+    "Method": "GetVotantes",
+    "RelativePath": "api/Votantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VotacionApp.Api.DTOs.VotanteDto, VotacionApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotantesController",
+    "Method": "PostVotante",
+    "RelativePath": "api/Votantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createVotanteDto",
+        "Type": "VotacionApp.Api.DTOs.CreateVotanteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VotacionApp.Api.DTOs.VotanteDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotantesController",
+    "Method": "GetVotante",
+    "RelativePath": "api/Votantes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VotacionApp.Api.DTOs.VotanteDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotantesController",
+    "Method": "PutVotante",
+    "RelativePath": "api/Votantes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateVotanteDto",
+        "Type": "VotacionApp.Api.DTOs.UpdateVotanteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotantesController",
+    "Method": "DeleteVotante",
+    "RelativePath": "api/Votantes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VotacionApp.Api.Controllers.VotantesController",
+    "Method": "GetVotanteByCedula",
+    "RelativePath": "api/Votantes/cedula/{cedula}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VotacionApp.Api.DTOs.VotanteDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\VotacionApp.Api\\VotacionApp.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

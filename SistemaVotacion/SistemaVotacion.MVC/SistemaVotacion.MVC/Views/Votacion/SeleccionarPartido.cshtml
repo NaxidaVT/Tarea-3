@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Seleccionar Partido";
+    var partidos = ViewBag.Partidos as List<SistemaVotacion.MVC.Models.PartidoPolitico>;
+}
+
+<h2>Seleccione el partido por el cual desea votar</h2>
+
+<form asp-action="SeleccionarPartido" method="post">
+    @foreach (var partido in partidos)
+    {
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="partidoId" value="@partido.Id" required>
+            <label class="form-check-label">
+                <strong>@partido.Siglas</strong> - @partido.Nombre
+            </label>
+        </div>
+    }
+    <br />
+    <button type="submit" class="btn btn-success">Emitir voto</button>
+</form>
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-danger mt-3">
+        @ViewBag.Mensaje
+    </div>
+}
