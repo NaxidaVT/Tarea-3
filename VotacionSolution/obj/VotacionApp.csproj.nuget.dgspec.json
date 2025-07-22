@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\VotacionApp.csproj": {}
+    "C:\\Users\\kevin\\source\\repos\\Practica 3\\VotacionSolution\\VotacionApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\VotacionApp.csproj": {
+    "C:\\Users\\kevin\\source\\repos\\Practica 3\\VotacionSolution\\VotacionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\VotacionApp.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Practica 3\\VotacionSolution\\VotacionApp.csproj",
         "projectName": "VotacionApp",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\VotacionApp.csproj",
+        "projectPath": "C:\\Users\\kevin\\source\\repos\\Practica 3\\VotacionSolution\\VotacionApp.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\source\\repos\\Practica 3\\VotacionSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -124,5 +124,20 @@ namespace VotacionApp.WebMVC.Services
         {
             throw new NotImplementedException();
         }
+
+        internal async Task<Dictionary<string, int>> GetResultadosVotacionAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal async Task<(bool success, string message)> RealizarVotoAsync(RealizarVotoViewModel model)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal async Task<string?> GetVotantesAsync()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

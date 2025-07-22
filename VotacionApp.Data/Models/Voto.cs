@@ -15,7 +15,7 @@ namespace VotacionApp.Data.Models
         public int PartidoPoliticoId { get; set; }
 
         [Required]
-        public DateTime FechaVoto { get; set; }
+        public System.DateTime FechaVoto { get; set; }
 
         // Propiedades de navegación
         public Votante Votante { get; set; }

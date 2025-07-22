@@ -60,7 +60,7 @@ namespace VotacionApp.WebMVC.Controllers
 
             // Recargar la lista de partidos si hay un error de validación para volver a mostrar la vista
             model.PartidosPoliticos = (await _apiClientService.GetPartidosPoliticosAsync())
-                                        .Select(p => new SelectListItem
+                                        .Select(static p => new SelectListItem
                                         {
                                             Value = p.PartidoPoliticoId.ToString(),
                                             Text = p.Nombre

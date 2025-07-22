@@ -1,7 +1,7 @@
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.csproj.AssemblyReference.cache
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.AssemblyInfoInputs.cache
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.AssemblyInfo.cs
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.csproj.CoreCompileInputs.cache
-C:\Users\kevin\source\repos\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Business\obj\Debug\net8.0\VotacionApp.Business.MvcApplicationPartsAssemblyInfo.cache

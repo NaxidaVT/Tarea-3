@@ -1,5 +1,5 @@
-C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.csproj.AssemblyReference.cache
-C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.AssemblyInfoInputs.cache
-C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.AssemblyInfo.cs
-C:\Users\kevin\source\repos\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Data\obj\Debug\net8.0\VotacionApp.Data.csproj.CoreCompileInputs.cache

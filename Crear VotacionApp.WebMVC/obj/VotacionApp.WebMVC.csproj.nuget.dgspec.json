@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj": {}
+    "C:\\Users\\kevin\\source\\repos\\Practica 3\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj": {
+    "C:\\Users\\kevin\\source\\repos\\Practica 3\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\Practica 3\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
         "projectName": "VotacionApp.WebMVC",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
+        "projectPath": "C:\\Users\\kevin\\source\\repos\\Practica 3\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\source\\repos\\Practica 3\\Crear VotacionApp.WebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

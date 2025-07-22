@@ -1,7 +1,7 @@
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.csproj.AssemblyReference.cache
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.AssemblyInfoInputs.cache
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.AssemblyInfo.cs
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.csproj.CoreCompileInputs.cache
-C:\Users\kevin\source\repos\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionApp.Api\obj\Debug\net8.0\VotacionApp.Api.MvcApplicationPartsAssemblyInfo.cache

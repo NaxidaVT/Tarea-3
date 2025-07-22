@@ -1,29 +1,29 @@
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\appsettings.json
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.staticwebassets.runtime.json
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.staticwebassets.endpoints.json
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.exe
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.deps.json
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.runtimeconfig.json
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.dll
-C:\Users\kevin\source\repos\VotacionSolution\bin\Debug\net8.0\VotacionApp.pdb
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.AssemblyInfoInputs.cache
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.AssemblyInfo.cs
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.csproj.CoreCompileInputs.cache
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\scopedcss\bundle\VotacionApp.styles.css
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.dll
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\refint\VotacionApp.dll
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.pdb
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\VotacionApp.genruntimeconfig.cache
-C:\Users\kevin\source\repos\VotacionSolution\obj\Debug\net8.0\ref\VotacionApp.dll
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\appsettings.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.staticwebassets.runtime.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.staticwebassets.endpoints.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.exe
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.deps.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.runtimeconfig.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.dll
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\bin\Debug\net8.0\VotacionApp.pdb
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\scopedcss\bundle\VotacionApp.styles.css
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.dll
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\refint\VotacionApp.dll
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.pdb
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\VotacionApp.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Practica 3\VotacionSolution\obj\Debug\net8.0\ref\VotacionApp.dll
