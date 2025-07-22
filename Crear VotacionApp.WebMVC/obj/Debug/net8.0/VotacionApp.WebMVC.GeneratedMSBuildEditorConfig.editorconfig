@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VotacionApp.WebMVC
+build_property.RootNamespace = VotacionApp.WebMVC
+build_property.ProjectDir = C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/PartidosPoliticosMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NQb2xpdGljb3NNVkNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/PartidosPoliticosMVC/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NQb2xpdGljb3NNVkNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/PartidosPoliticosMVC/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NQb2xpdGljb3NNVkNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/PartidosPoliticosMVC/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NQb2xpdGljb3NNVkNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/PartidosPoliticosMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkb3NQb2xpdGljb3NNVkNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/VotacionMvc/Resultados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90YWNpb25NdmNcUmVzdWx0YWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/VotacionMvc/Votar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90YWNpb25NdmNcVm90YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/VotantesMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm90YW50ZXNNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/source/repos/Crear VotacionApp.WebMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z59qom6xa0

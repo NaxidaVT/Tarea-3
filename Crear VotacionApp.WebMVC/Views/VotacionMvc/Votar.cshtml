@@ -1,0 +1,49 @@
+﻿@model VotacionApp.WebMVC.Models.RealizarVotoViewModel
+
+@{
+    ViewData["Title"] = "Realizar Votación";
+}
+
+<h1>Realizar Votación</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Votar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CedulaVotante" class="control-label"></label>
+                <input asp-for="CedulaVotante" class="form-control" />
+                <span asp-validation-for="CedulaVotante" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="IdPartidoPolitico" class="control-label"></label>
+                <select asp-for="IdPartidoPolitico" class="form-control" asp-items="@Model.PartidosPoliticos">
+                    <option value="">-- Seleccione un Partido --</option>
+                </select>
+                <span asp-validation-for="IdPartidoPolitico" class="text-danger"></span>
+            </div>
+            @if (!string.IsNullOrEmpty(Model.MensajeError))
+            {
+                <div class="alert alert-danger mt-3">@Model.MensajeError</div>
+            }
+            @if (!string.IsNullOrEmpty(Model.MensajeExito))
+            {
+                <div class="alert alert-success mt-3">@Model.MensajeExito</div>
+            }
+            <div class="form-group mt-3">
+                <input type="submit" value="Votar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

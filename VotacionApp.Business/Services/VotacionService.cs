@@ -55,7 +55,7 @@ namespace VotacionApp.Business.Services
                 throw new KeyNotFoundException("Votante no encontrado.");
             }
             // Puedes agregar más validaciones aquí
-            _votanteRepository.UpdateVotanteAsync(votante);
+            await _votanteRepository.UpdateVotanteAsync(votante);
             await _votanteRepository.SaveChangesAsync();
         }
 
@@ -84,7 +84,7 @@ namespace VotacionApp.Business.Services
 
         public async Task UpdatePartidoPoliticoAsync(PartidoPolitico partido)
         {
-            _partidoPoliticoRepository.UpdatePartidoPoliticoAsync(partido);
+            await _partidoPoliticoRepository.UpdatePartidoPoliticoAsync(partido);
             await _partidoPoliticoRepository.SaveChangesAsync();
         }
 
@@ -124,7 +124,7 @@ namespace VotacionApp.Business.Services
             await _votoRepository.AddVotoAsync(nuevoVoto);
 
             votante.HaVotado = true; // Marcar al votante como que ya votó
-            _votanteRepository.UpdateVotanteAsync(votante); // Actualizar el estado del votante
+            await _votanteRepository.UpdateVotanteAsync(votante); // Actualizar el estado del votante
 
             await _votoRepository.SaveChangesAsync(); // Guardar el voto y el cambio en el votante
             return true;

@@ -1,0 +1,33 @@
+﻿@model VotacionApp.WebMVC.Models.PartidoPoliticoViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Partido Político";
+}
+
+<h1>Eliminar Partido Político</h1>
+
+<h3>¿Estás seguro de que quieres eliminar este partido político?</h3>
+<div>
+    <h4>Partido Político</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Siglas)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Siglas)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="PartidoPoliticoId" />
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+    </form>
+</div>

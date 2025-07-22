@@ -1,0 +1,38 @@
+﻿@model VotacionApp.WebMVC.Models.ResultadosViewModel
+
+@{
+    ViewData["Title"] = "Resultados de la Votación";
+}
+
+<h1>Resultados de la Votación</h1>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Partido Político</th>
+            <th>Cantidad de Votos</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Resultados != null && Model.Resultados.Any())
+        {
+            @foreach (var resultado in Model.Resultados.OrderByDescending(r => r.Value))
+            {
+                <tr>
+                    <td>@resultado.Key</td>
+                    <td>@resultado.Value</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="2" class="text-center">No hay votos registrados aún.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Volver al Inicio</a>
+</div>

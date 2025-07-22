@@ -1,0 +1,62 @@
+﻿@model IEnumerable<VotacionApp.WebMVC.Models.VotanteViewModel>
+
+@{
+    ViewData["Title"] = "Votantes";
+}
+
+<h1>Votantes</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo Votante</a>
+</p>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cedula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HaVotado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cedula)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HaVotado)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.VotanteId">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.VotanteId">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.VotanteId">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

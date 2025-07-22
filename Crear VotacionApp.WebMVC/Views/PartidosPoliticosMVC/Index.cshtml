@@ -1,0 +1,56 @@
+﻿@model IEnumerable<VotacionApp.WebMVC.Models.PartidoPoliticoViewModel>
+
+@{
+    ViewData["Title"] = "Partidos Políticos";
+}
+
+<h1>Partidos Políticos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo Partido</a>
+</p>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Siglas)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Siglas)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PartidoPoliticoId" class="btn btn-sm btn-info">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.PartidoPoliticoId" class="btn btn-sm btn-secondary">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PartidoPoliticoId" class="btn btn-sm btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

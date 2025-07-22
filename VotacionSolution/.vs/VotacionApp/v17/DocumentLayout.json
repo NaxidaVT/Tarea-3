@@ -3,10 +3,74 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA7F75D2-5628-47ED-89F3-F0DBBECC9E84}|..\\VotacionApp.Data\\VotacionApp.Data.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\votacionapp.webmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AA7F75D2-5628-47ED-89F3-F0DBBECC9E84}|..\\VotacionApp.Data\\VotacionApp.Data.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.data\\votacionapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BC798D-045B-4AB8-85EE-E232E8CC1A6C}|VotacionApp.csproj|c:\\users\\kevin\\source\\repos\\votacionsolution\\votacionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9BC798D-045B-4AB8-85EE-E232E8CC1A6C}|VotacionApp.csproj|solutionrelative:votacionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F75D2-5628-47ED-89F3-F0DBBECC9E84}|..\\VotacionApp.Data\\VotacionApp.Data.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.data\\models\\voto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F75D2-5628-47ED-89F3-F0DBBECC9E84}|..\\VotacionApp.Data\\VotacionApp.Data.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.data\\models\\partidopolitico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F75D2-5628-47ED-89F3-F0DBBECC9E84}|..\\VotacionApp.Data\\VotacionApp.Data.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.data\\models\\votante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\views\\partidospoliticosmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\controllers\\votacionmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\views\\partidospoliticosmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\views\\partidospoliticosmvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\views\\partidospoliticosmvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\views\\partidospoliticosmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\controllers\\partidospoliticosmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\models\\createpartidopoliticoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\models\\partidopoliticoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB07635-C8A4-41E9-BFFB-4D42D07B457F}|..\\VotacionApp.Api\\VotacionApp.Api.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D098DB4E-79F4-4400-908D-C924B753BBC7}|..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj|c:\\users\\kevin\\source\\repos\\crear votacionapp.webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB07635-C8A4-41E9-BFFB-4D42D07B457F}|..\\VotacionApp.Api\\VotacionApp.Api.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AFA8C8-E09E-4AB3-A43F-7604ABE1323B}|..\\VotacionApp.Business\\VotacionApp.Business.csproj|c:\\users\\kevin\\source\\repos\\votacionapp.business\\services\\votacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,29 +124,282 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:08:35.949Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T01:08:26.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VotacionApp.WebMVC",
-              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
-              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
-              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
-              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\VotacionApp.WebMVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "VotacionApp.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\VotacionApp.Data.csproj",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Data\\VotacionApp.Data.csproj",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\VotacionApp.Data.csproj",
+              "RelativeToolTip": "..\\VotacionApp.Data\\VotacionApp.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-21T19:08:27.779Z",
+              "WhenOpened": "2025-07-22T01:06:25.236Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\VotacionApp.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:56:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Delete.cshtml",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:47:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Details.cshtml",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:47:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Edit.cshtml",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:46:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Create.cshtml",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:46:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiClientService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Services\\ApiClientService.cs",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Services\\ApiClientService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Services\\ApiClientService.cs",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Services\\ApiClientService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:45:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePartidoPoliticoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Models\\CreatePartidoPoliticoViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Models\\CreatePartidoPoliticoViewModel.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Models\\CreatePartidoPoliticoViewModel.cs",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Models\\CreatePartidoPoliticoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:43:41.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartidoPoliticoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Models\\PartidoPoliticoViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Models\\PartidoPoliticoViewModel.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Models\\PartidoPoliticoViewModel.cs",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Models\\PartidoPoliticoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:43:13.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Index.cshtml",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Views\\PartidosPoliticosMVC\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:31:19.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T00:20:47.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\appsettings.json",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T00:19:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PartidosPoliticosMvcController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Controllers\\PartidosPoliticosMvcController.cs",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Controllers\\PartidosPoliticosMvcController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Controllers\\PartidosPoliticosMvcController.cs",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Controllers\\PartidosPoliticosMvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:13:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Program.cs",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:12:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VotacionService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Business\\Services\\VotacionService.cs",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Business\\Services\\VotacionService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Business\\Services\\VotacionService.cs",
+              "RelativeToolTip": "..\\VotacionApp.Business\\Services\\VotacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:37:35.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartidoPolitico.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\Models\\PartidoPolitico.cs",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Data\\Models\\PartidoPolitico.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\Models\\PartidoPolitico.cs",
+              "RelativeToolTip": "..\\VotacionApp.Data\\Models\\PartidoPolitico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:25:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Api\\Program.cs",
+              "RelativeToolTip": "..\\VotacionApp.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:04:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotacionApp.csproj",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\VotacionApp.csproj",
+              "RelativeDocumentMoniker": "VotacionApp.csproj",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionSolution\\VotacionApp.csproj",
+              "RelativeToolTip": "VotacionApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T23:00:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Votante.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\Models\\Votante.cs",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Data\\Models\\Votante.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\Models\\Votante.cs",
+              "RelativeToolTip": "..\\VotacionApp.Data\\Models\\Votante.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA9wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:57:07.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voto.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\Models\\Voto.cs",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Data\\Models\\Voto.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Data\\Models\\Voto.cs",
+              "RelativeToolTip": "..\\VotacionApp.Data\\Models\\Voto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:56:59.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VotacionMvcController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Controllers\\VotacionMvcController.cs",
+              "RelativeDocumentMoniker": "..\\Crear VotacionApp.WebMVC\\Controllers\\VotacionMvcController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Crear VotacionApp.WebMVC\\Controllers\\VotacionMvcController.cs",
+              "RelativeToolTip": "..\\Crear VotacionApp.WebMVC\\Controllers\\VotacionMvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:53:01.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\VotacionApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\VotacionApp.Api\\appsettings.json",
+              "RelativeToolTip": "..\\VotacionApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T23:04:40.861Z"
             }
           ]
         },

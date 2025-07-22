@@ -1,0 +1,8 @@
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.RazorAssemblyInfo.cache
+C:\Users\kevin\source\repos\Crear VotacionApp.WebMVC\obj\Debug\net8.0\VotacionApp.WebMVC.RazorAssemblyInfo.cs
